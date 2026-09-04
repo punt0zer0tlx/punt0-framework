@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Si utilizas este framework o su taxonomía, por favor cita el trabajo original."
+authors:
+  - family-names: "Salamanca García"
+    given-names: "Néstor Sebastián"
+    affiliation: "PUNT0 Framework"
+title: "Marco Determinista de Control Externo, Parametrización por Estados (PES) y Protocolo de Abstención para la Mitigación de Fallas en Modelos de Lenguaje"
+version: 1.3
+doi: 10.5281/zenodo.22292297
+date-released: 2026-09-04
+url: "https://doi.org/10.5281/zenodo.22292297"
+license: CC-BY-NC-ND-4.0
