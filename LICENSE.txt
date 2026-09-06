@@ -1,11 +1,22 @@
-Texto legal completo de la licencia:
+Licencia aplicable: Creative Commons Atribución-NoComercial-SinDerivadas 4.0
+Internacional (CC BY-NC-ND 4.0).
+
+Texto legal oficial de la licencia:
 https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.es
 
 Bajo los siguientes términos:
-- Atribución (BY): Debe dar crédito de manera adecuada a Néstor Sebastián Salamanca García 
-  y proporcionar un enlace al DOI persistente (https://doi.org/10.5281/zenodo.22292297).
-- No Comercial (NC): No puede hacer uso del material con propósitos comerciales, empaquetado 
-  en servicios de pago, cursos o consultorías comerciales sin autorización explícita.
-- Sin Derivadas (ND): Si remezcla, transforma o crea a partir del material (incluyendo 
-  renombrar conceptos de la taxonomía o empaquetar el marco), no puede distribuir el 
-  material modificado como un desarrollo propio.
+- Atribución (BY): Debe dar crédito de manera adecuada a Néstor Sebastián Salamanca García,
+  proporcionar un enlace a la licencia e indicar si se realizaron cambios. La atribución no debe
+  sugerir que el autor respalda al usuario o el uso efectuado.
+- No Comercial (NC): No puede utilizar el material con propósitos principalmente dirigidos a
+  obtener una ventaja comercial o compensación monetaria.
+- Sin Derivadas (ND): Si remezcla, transforma o crea a partir del material, no puede distribuir
+  el material modificado.
+- Sin restricciones adicionales: No puede aplicar términos legales ni medidas tecnológicas que
+  restrinjan los usos permitidos por la licencia.
+
+Cita persistente del trabajo:
+https://doi.org/10.5281/zenodo.22292297
+
+Este archivo resume las condiciones aplicables. En caso de discrepancia, prevalece el texto
+legal oficial enlazado arriba.
