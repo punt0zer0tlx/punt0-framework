@@ -57,6 +57,7 @@ La versión canónica y reutilizable del arnés se encuentra en [`prompts/arnes_
 
 - [Preprint oficial v1.3 en Zenodo](https://doi.org/10.5281/zenodo.22292297)
 - [PDF incluido en este repositorio](docs/Marco_Determinista_de_Control_Externo__Parametrización_por_Estados__PES__y_Protocolo_de_Abstención_para_la_Mitigación_de_Fallas_en_Modelos_de_Lenguaje.pdf)
+- [Errata verificada de la versión 1.3](docs/ERRATA_v1.3.md)
 - [Metadatos de citación](CITATION.cff)
 - [Licencia](LICENSE.txt)
 
