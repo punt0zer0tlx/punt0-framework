@@ -1,8 +1,8 @@
 cff-version: 1.2.0
 message: "Si utilizas PUNT0 Framework, por favor cita la versión correspondiente del trabajo original."
 authors:
-  - family-names: "Salamanca García"
-    given-names: "Néstor Sebastián"
+  - family-names: "Salamanca Garcia"
+    given-names: "Nestor Sebastian"
     affiliation: "PUNT0 Framework"
     orcid: "https://orcid.org/0009-0006-3035-7336"
 title: "La Enunciación como Base de Control Externo en Modelos de Lenguaje"
