@@ -5,7 +5,7 @@
 [![Licencia: CC BY-NC-ND 4.0](https://img.shields.io/badge/Licencia-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 [![Versión](https://img.shields.io/badge/Versi%C3%B3n-v1.4%20(Octubre%202026)-blue)](https://doi.org/10.5281/zenodo.23096141)
 
-> **Autor:** Néstor Sebastián Salamanca García  
+> **Autor:** Nestor Sebastian Salamanca Garcia  
 > **ORCID:** [0009-0006-3035-7336](https://orcid.org/0009-0006-3035-7336)  
 > **Proyecto:** PUNT0 Framework  
 > **Investigación independiente**  
@@ -100,7 +100,7 @@ El archivo `prompts/arnes_punto_v1.3.txt` se conserva únicamente como **artefac
 
 Para citar específicamente la versión actual:
 
-> Salamanca García, Néstor Sebastián. (2026). *La Enunciación como Base de Control Externo en Modelos de Lenguaje* (v1.4). Zenodo. https://doi.org/10.5281/zenodo.23096141
+> Salamanca Garcia, Nestor Sebastian. (2026). *La Enunciación como Base de Control Externo en Modelos de Lenguaje* (v1.4). Zenodo. https://doi.org/10.5281/zenodo.23096141
 
 Para referirse al proyecto a través de todas sus versiones:
 
