@@ -1,5 +1,5 @@
 PUNT0 Framework
-Copyright © 2026 Néstor Sebastián Salamanca García
+Copyright © 2026 Nestor Sebastian Salamanca Garcia
 
 Este repositorio y los materiales identificados como parte de PUNT0 Framework se distribuyen bajo:
 
@@ -10,7 +10,7 @@ Texto legal:
 https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode
 
 Resumen de condiciones:
-- Atribución (BY): debe darse crédito adecuado a Néstor Sebastián Salamanca García.
+- Atribución (BY): debe darse crédito adecuado a Nestor Sebastian Salamanca Garcia.
 - No Comercial (NC): esta licencia no concede permiso para utilizar el material con fines comerciales.
 - Sin Derivadas (ND): si el material se remezcla, transforma o adapta, la licencia no concede permiso para distribuir la versión modificada.
 
