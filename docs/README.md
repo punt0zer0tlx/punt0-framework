@@ -1,9 +1,20 @@
-Markdown
+# Documentación oficial PUNT0
 
+## Versión actual
 
-# Documentación Oficial PUNT0
+**PUNT0 v1.4 — La Enunciación como Base de Control Externo en Modelos de Lenguaje**
 
-Repositorio de versiones compiladas y especificaciones formales.
+- Publicación canónica: https://doi.org/10.5281/zenodo.23096141
+- DOI de todas las versiones: https://doi.org/10.5281/zenodo.22292296
+- Autor: Néstor Sebastián Salamanca García
+- ORCID: https://orcid.org/0009-0006-3035-7336
+- Licencia: CC BY-NC-ND 4.0
 
-- **Versión actual:** [Descargar PDF v1.3](Marco_Determinista_de_Control_Externo__Parametrización_por_Estados__PES__y_Protocolo_de_Abstención_para_la_Mitigación_de_Fallas_en_Modelos_de_Lenguaje.pdf)[cite: 1]
-- **Registro DOI CERN/Zenodo:** [10.5281/zenodo.22292297](https://doi.org/10.5281/zenodo.22292297)
+## Historial
+
+El PDF almacenado en este directorio corresponde a **PUNT0 v1.3** y se conserva como artefacto histórico para mantener trazabilidad documental.
+
+- v1.3: https://doi.org/10.5281/zenodo.22292297
+- v1.4: https://doi.org/10.5281/zenodo.23096141
+
+La versión canónica actual del documento se distribuye desde Zenodo.
