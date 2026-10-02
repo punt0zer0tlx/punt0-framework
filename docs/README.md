@@ -6,7 +6,7 @@
 
 - Publicación canónica: https://doi.org/10.5281/zenodo.23096141
 - DOI de todas las versiones: https://doi.org/10.5281/zenodo.22292296
-- Autor: Néstor Sebastián Salamanca García
+- Autor: Nestor Sebastian Salamanca Garcia
 - ORCID: https://orcid.org/0009-0006-3035-7336
 - Licencia: CC BY-NC-ND 4.0
 
