@@ -1,12 +1,22 @@
 cff-version: 1.2.0
-message: "Si utilizas este framework o su taxonomía, por favor cita el trabajo original."
+message: "Si utilizas PUNT0 Framework, por favor cita la versión correspondiente del trabajo original."
 authors:
   - family-names: "Salamanca García"
     given-names: "Néstor Sebastián"
     affiliation: "PUNT0 Framework"
-title: "Marco Determinista de Control Externo, Parametrización por Estados (PES) y Protocolo de Abstención para la Mitigación de Fallas en Modelos de Lenguaje"
-version: 1.3
-doi: 10.5281/zenodo.22292297
-date-released: 2026-09-04
-url: "https://doi.org/10.5281/zenodo.22292297"
-license: CC-BY-NC-ND-4.0
+    orcid: "https://orcid.org/0009-0006-3035-7336"
+title: "La Enunciación como Base de Control Externo en Modelos de Lenguaje"
+version: "1.4"
+doi: "10.5281/zenodo.23096141"
+date-released: "2026-10-02"
+url: "https://doi.org/10.5281/zenodo.23096141"
+repository-code: "https://github.com/punt0zer0tlx/punt0-framework"
+license: "CC-BY-NC-ND-4.0"
+keywords:
+  - "PUNT0"
+  - "Yo Absoluto"
+  - "Yo Deíctico"
+  - "Responsabilidad Deíctica"
+  - "PES"
+  - "SILENCIO"
+  - "Anclaje al Tiempo"
