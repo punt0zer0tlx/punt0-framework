@@ -1,5 +1,5 @@
 PUNT0 v1.4 — FORMULACIÓN OPERATIVA MÍNIMA
-Autor: Néstor Sebastián Salamanca García
+Autor: Nestor Sebastian Salamanca Garcia
 DOI: 10.5281/zenodo.23096141
 
 1. YO DEÍCTICO
